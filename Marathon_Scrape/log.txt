@@ -1,0 +1,456 @@
+DevTools listening on ws://127.0.0.1:54072/devtools/browser/ef922191-15b9-4315-9a4d-55e4917fcc6f
+Building race list for 2015
+Building option and context for {Last Chance Marathon} {2015}
+{Last Chance Marathon} {2015} raw results saved successfully
+Building option and context for {New Year's Eve Marathon} {2015}
+{New Year's Eve Marathon} {2015} raw results saved successfully
+Building option and context for {Operation Jack Marathon} {2015}
+{Operation Jack Marathon} {2015} raw results saved successfully
+Building option and context for {First Day of Winter Marathon} {2015}
+Error in index for race metadata
+Can't find xpath for selection list
+cant find xpath for view button
+{First Day of Winter Marathon} {2015} raw results saved successfully
+Building option and context for {Hawk Indoor Marathon} {2015}
+{Hawk Indoor Marathon} {2015} raw results saved successfully
+Building option and context for {HITS Running Festival - Austin} {2015}
+{HITS Running Festival - Austin} {2015} raw results saved successfully
+Building option and context for {3 Bridges Marathon} {2015}
+Error in index for race metadata
+{3 Bridges Marathon} {2015} raw results saved successfully
+Building option and context for {Otter Creek Trail Marathon} {2015}
+{Otter Creek Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Run for the Ranch Marathon} {2015}
+{Run for the Ranch Marathon} {2015} raw results saved successfully
+Building option and context for {Best Damn Race Cape Coral Marathon} {2015}
+{Best Damn Race Cape Coral Marathon} {2015} raw results saved successfully
+Building option and context for {Bryan/College Station Marathon} {2015}
+{Bryan/College Station Marathon} {2015} error in processing raw results
+Building option and context for {Dallas Marathon (formerly the Dallas White Rock Marathon)} {2015}
+{Dallas Marathon (formerly the Dallas White Rock Marathon)} {2015} raw results saved successfully
+Building option and context for {Honolulu Marathon} {2015}
+Error in index for race metadata
+{Honolulu Marathon} {2015} raw results saved successfully
+Building option and context for {McAllen Marathon} {2015}
+{McAllen Marathon} {2015} raw results saved successfully
+Building option and context for {Brazos Bend Marathon} {2015}
+{Brazos Bend Marathon} {2015} raw results saved successfully
+Building option and context for {Hoover Dam Marathon} {2015}
+{Hoover Dam Marathon} {2015} raw results saved successfully
+Building option and context for {Kiawah Island Marathon} {2015}
+{Kiawah Island Marathon} {2015} raw results saved successfully
+Building option and context for {Rocket City Marathon} {2015}
+{Rocket City Marathon} {2015} raw results saved successfully
+Building option and context for {Roxbury Marathon} {2015}
+{Roxbury Marathon} {2015} raw results saved successfully
+Building option and context for {The Buckeye Marathon} {2015}
+{The Buckeye Marathon} {2015} raw results saved successfully
+Building option and context for {California International Marathon} {2015}
+{California International Marathon} {2015} raw results saved successfully
+Building option and context for {Cayman Islands Marathon} {2015}
+{Cayman Islands Marathon} {2015} raw results saved successfully
+Building option and context for {Palm Beaches Marathon Festival} {2015}
+{Palm Beaches Marathon Festival} {2015} raw results saved successfully
+Building option and context for {Rock 'n' Roll San Antonio Marathon and 1/2 Marathon} {2015}
+Error in index for race metadata
+{Rock 'n' Roll San Antonio Marathon and 1/2 Marathon} {2015} error in processing raw results
+Building option and context for {Run Barbados Marathon Weekend} {2015}
+{Run Barbados Marathon Weekend} {2015} raw results saved successfully
+Building option and context for {Singapore International Marathon} {2015}
+{Singapore International Marathon} {2015} raw results saved successfully
+Building option and context for {Topo Trail Marathon} {2015}
+{Topo Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Tucson Marathon} {2015}
+{Tucson Marathon} {2015} raw results saved successfully
+Building option and context for {Baton Rouge Beach Marathon} {2015}
+{Baton Rouge Beach Marathon} {2015} raw results saved successfully
+Building option and context for {Death Valley Trail Marathon} {2015}
+{Death Valley Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Las Vegas Backcountry Trail Marathon} {2015}
+Error in index for race metadata
+{Las Vegas Backcountry Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Memphis Marathon} {2015}
+{Memphis Marathon} {2015} raw results saved successfully
+Building option and context for {Panama City Beach Marathon} {2015}
+Error in index for race metadata
+{Panama City Beach Marathon} {2015} raw results saved successfully
+Building option and context for {Reggae Marathon} {2015}
+{Reggae Marathon} {2015} raw results saved successfully
+Building option and context for {Rehoboth Seashore Marathon} {2015}
+{Rehoboth Seashore Marathon} {2015} raw results saved successfully
+Building option and context for {The North Face Endurance Challenge - San Francisco} {2015}
+{The North Face Endurance Challenge - San Francisco} {2015} raw results saved successfully
+Building option and context for {Seattle Marathon} {2015}
+{Seattle Marathon} {2015} raw results saved successfully
+Building option and context for {Space Coast Marathon} {2015}
+{Space Coast Marathon} {2015} raw results saved successfully
+Building option and context for {Ghost of Seattle Marathon} {2015}
+{Ghost of Seattle Marathon} {2015} raw results saved successfully
+Building option and context for {Las Vegas Deja Vu Marathon} {2015}
+{Las Vegas Deja Vu Marathon} {2015} raw results saved successfully
+Building option and context for {Mississippi Coast Marathon} {2015}
+{Mississippi Coast Marathon} {2015} raw results saved successfully
+Building option and context for {North Central Trail Marathon} {2015}
+{North Central Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Wishbone Run Marathon} {2015}
+{Wishbone Run Marathon} {2015} raw results saved successfully
+Building option and context for {The Wattle Waddle} {2015}
+{The Wattle Waddle} {2015} raw results saved successfully
+Building option and context for {Harpeth Hills Flying Monkey Marathon} {2015}
+Can't find xpath for selection list
+cant find xpath for view button
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+{Harpeth Hills Flying Monkey Marathon} {2015} raw results saved successfully
+Building option and context for {Philadelphia Marathon} {2015}
+Error in index for race metadata
+{Philadelphia Marathon} {2015} raw results saved successfully
+Building option and context for {Route 66 Marathon} {2015}
+{Route 66 Marathon} {2015} raw results saved successfully
+Building option and context for {Chosen: Marathon for Adoption} {2015}
+{Chosen: Marathon for Adoption} {2015} raw results saved successfully
+Building option and context for {Meridian Marathon, LEO Run to Remember} {2015}
+{Meridian Marathon, LEO Run to Remember} {2015} raw results saved successfully
+Building option and context for {New Catalina Eco Marathon} {2015}
+{New Catalina Eco Marathon} {2015} raw results saved successfully
+Building option and context for {White River Marathon for Kenya (prev Mountain Home Marathon for Kenya)} {2015}
+{White River Marathon for Kenya (prev Mountain Home Marathon for Kenya)} {2015} raw results saved successfully
+Building option and context for {Brooklyn Marathon} {2015}
+{Brooklyn Marathon} {2015} raw results saved successfully
+Building option and context for {Bucks County Marathon} {2015}
+{Bucks County Marathon} {2015} raw results saved successfully
+Building option and context for {Dirty South Marathon} {2015}
+{Dirty South Marathon} {2015} raw results saved successfully
+Building option and context for {Myles Standish Marathon} {2015}
+Error in index for race metadata
+{Myles Standish Marathon} {2015} raw results saved successfully
+Building option and context for {Orlando Marathon} {2015}
+{Orlando Marathon} {2015} raw results saved successfully
+Building option and context for {Pilgrim Pacer Marathon} {2015}
+{Pilgrim Pacer Marathon} {2015} raw results saved successfully
+Building option and context for {Potomac River Run Fall Marathon} {2015}
+{Potomac River Run Fall Marathon} {2015} raw results saved successfully
+Building option and context for {Rock 'n' Roll Las Vegas Marathon} {2015}
+Error in index for race metadata
+{Rock 'n' Roll Las Vegas Marathon} {2015} raw results saved successfully
+Building option and context for {Stony Creek Marathon} {2015}
+{Stony Creek Marathon} {2015} raw results saved successfully
+Building option and context for {Surfers Point Marathon} {2015}
+{Surfers Point Marathon} {2015} raw results saved successfully
+Building option and context for {X-Country Marathon} {2015}
+Error in index for race metadata
+Error in index for race metadata
+{X-Country Marathon} {2015} raw results saved successfully
+Building option and context for {Beat the Blerch - Sacramento} {2015}
+{Beat the Blerch - Sacramento} {2015} raw results saved successfully
+Building option and context for {Charlotte's Thunder Road Marathon} {2015}
+{Charlotte's Thunder Road Marathon} {2015} raw results saved successfully
+Building option and context for {Chickamauga Battlefield Marathon} {2015}
+{Chickamauga Battlefield Marathon} {2015} raw results saved successfully
+Building option and context for {Grand Ridge Marathon} {2015}
+{Grand Ridge Marathon} {2015} raw results saved successfully
+Building option and context for {Richmond Marathon} {2015}
+{Richmond Marathon} {2015} raw results saved successfully
+Building option and context for {Veterans Marathon} {2015}
+Error in index for race metadata
+{Veterans Marathon} {2015} raw results saved successfully
+Building option and context for {Cross County Trail Marathon} {2015}
+{Cross County Trail Marathon} {2015} raw results saved successfully
+Building option and context for {C&O Canal Towpath Marathon} {2015}
+{C&O Canal Towpath Marathon} {2015} raw results saved successfully
+Building option and context for {Fort Worth Marathon} {2015}
+{Fort Worth Marathon} {2015} raw results saved successfully
+Building option and context for {Ft. Myers Beach Marathon} {2015}
+{Ft. Myers Beach Marathon} {2015} raw results saved successfully
+Building option and context for {Gobbler Grind Marathon} {2015}
+{Gobbler Grind Marathon} {2015} raw results saved successfully
+Building option and context for {Harrisburg Marathon} {2015}
+{Harrisburg Marathon} {2015} raw results saved successfully
+Building option and context for {Inland Trail Marathon} {2015}
+{Inland Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Madison Marathon (Mad City Marathon)} {2015}
+{Madison Marathon (Mad City Marathon)} {2015} raw results saved successfully
+Building option and context for {Naperville Marathon} {2015}
+{Naperville Marathon} {2015} raw results saved successfully
+Building option and context for {OBX Marathon} {2015}
+{OBX Marathon} {2015} raw results saved successfully
+Building option and context for {Pensacola Marathon} {2015}
+Can't find xpath for selection list
+cant find xpath for view button
+Can't find xpath for selection list
+{Pensacola Marathon} {2015} raw results saved successfully
+Building option and context for {Santa Clarita Marathon} {2015}
+{Santa Clarita Marathon} {2015} raw results saved successfully
+Building option and context for {Veterans Marathon (PA)} {2015}
+{Veterans Marathon (PA)} {2015} raw results saved successfully
+Building option and context for {Bobcat Trail Marathon} {2015}
+{Bobcat Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Indianapolis Monumental Marathon} {2015}
+{Indianapolis Monumental Marathon} {2015} raw results saved successfully
+Building option and context for {Lake Chabot Trail Marathon} {2015}
+{Lake Chabot Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Marathon on the Mountain} {2015}
+{Marathon on the Mountain} {2015} raw results saved successfully
+Building option and context for {Midsouth Marathon} {2015}
+{Midsouth Marathon} {2015} raw results saved successfully
+Building option and context for {Moab Trail Marathon} {2015}
+{Moab Trail Marathon} {2015} raw results saved successfully
+Building option and context for {NJ Trail Series One Day Marathon} {2015}
+{NJ Trail Series One Day Marathon} {2015} raw results saved successfully
+Building option and context for {REVEL Canyon City Marathon} {2015}
+{REVEL Canyon City Marathon} {2015} raw results saved successfully
+Building option and context for {Rim Rock Marathon} {2015}
+Can't find xpath for selection list
+cant find xpath for view button
+Can't find xpath for selection list
+{Rim Rock Marathon} {2015} raw results saved successfully
+Building option and context for {Rock 'n' Roll Savannah Marathon} {2015}
+{Rock 'n' Roll Savannah Marathon} {2015} raw results saved successfully
+Building option and context for {Silver Falls Marathon} {2015}
+{Silver Falls Marathon} {2015} raw results saved successfully
+Building option and context for {Soldier Marathon} {2015}
+Error in index for race metadata
+{Soldier Marathon} {2015} raw results saved successfully
+Building option and context for {Stone Cat Marathon and 50 Mile Trail Races} {2015}
+{Stone Cat Marathon and 50 Mile Trail Races} {2015} raw results saved successfully
+Building option and context for {Day of the Dead Marathon Series Day 7- El Maraton del Rio Grande} {2015}
+{Day of the Dead Marathon Series Day 7- El Maraton del Rio Grande} {2015} raw results saved successfully
+Building option and context for {Day of the Dead Marathon Series Day 6} {2015}
+{Day of the Dead Marathon Series Day 6} {2015} raw results saved successfully
+Building option and context for {Day of the Dead Marathon Series Day 5} {2015}
+{Day of the Dead Marathon Series Day 5} {2015} raw results saved successfully
+Building option and context for {Day of the Dead Marathon Series Day 4} {2015}
+{Day of the Dead Marathon Series Day 4} {2015} raw results saved successfully
+Building option and context for {Day of the Dead Marathon Series Day 3} {2015}
+{Day of the Dead Marathon Series Day 3} {2015} raw results saved successfully
+Building option and context for {Auckland Marathon} {2015}
+{Auckland Marathon} {2015} raw results saved successfully
+Building option and context for {Bass Pro Shops Marathon} {2015}
+{Bass Pro Shops Marathon} {2015} raw results saved successfully
+Building option and context for {BG26.2 Marathon} {2015}
+{BG26.2 Marathon} {2015} raw results saved successfully
+Building option and context for {City of Oaks Marathon & Half Marathon} {2015}
+{City of Oaks Marathon & Half Marathon} {2015} raw results saved successfully
+Building option and context for {Day of the Dead Marathon Series Day 2} {2015}
+{Day of the Dead Marathon Series Day 2} {2015} raw results saved successfully
+Building option and context for {Manchester City Marathon} {2015}
+{Manchester City Marathon} {2015} raw results saved successfully
+Building option and context for {Marshall University Marathon} {2015}
+{Marshall University Marathon} {2015} raw results saved successfully
+Building option and context for {Milwaukee Running Festival Marathon} {2015}
+{Milwaukee Running Festival Marathon} {2015} raw results saved successfully
+Building option and context for {New York City Marathon} {2015}
+{New York City Marathon} {2015} raw results saved successfully
+Building option and context for {NYC in AZ Marathon} {2015}
+Error in index for race metadata
+{NYC in AZ Marathon} {2015} raw results saved successfully
+Building option and context for {Rails to Trails Marathon} {2015}
+{Rails to Trails Marathon} {2015} raw results saved successfully
+Building option and context for {Road2Hope Hamilton Marathon} {2015}
+{Road2Hope Hamilton Marathon} {2015} raw results saved successfully
+Building option and context for {Two Cities Marathon} {2015}
+{Two Cities Marathon} {2015} raw results saved successfully
+Building option and context for {Barbados Midnight Marathon} {2015}
+{Barbados Midnight Marathon} {2015} raw results saved successfully
+Building option and context for {Day of the Dead Marathon Series Day 1} {2015}
+{Day of the Dead Marathon Series Day 1} {2015} raw results saved successfully
+Building option and context for {Spinx Run Fest} {2015}
+{Spinx Run Fest} {2015} raw results saved successfully
+Building option and context for {Stinson Beach Marathon} {2015}
+{Stinson Beach Marathon} {2015} raw results saved successfully
+Building option and context for {Dublin Marathon} {2015}
+Can't find xpath for selection list
+cant find xpath for view button
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+Can't find xpath for selection list
+{Dublin Marathon} {2015} raw results saved successfully
+Building option and context for {Cape Cod Marathon} {2015}
+{Cape Cod Marathon} {2015} raw results saved successfully
+Building option and context for {Columbia Gorge Marathon} {2015}
+{Columbia Gorge Marathon} {2015} raw results saved successfully
+Building option and context for {Dartmoor Vale Marathon} {2015}
+{Dartmoor Vale Marathon} {2015} raw results saved successfully
+Building option and context for {Haunted Hustle Marathon} {2015}
+{Haunted Hustle Marathon} {2015} raw results saved successfully
+Building option and context for {Leicester Marathon} {2015}
+{Leicester Marathon} {2015} raw results saved successfully
+Building option and context for {LOCO Marathon} {2015}
+Error in index for race metadata
+{LOCO Marathon} {2015} raw results saved successfully
+Building option and context for {Magog Marathon} {2015}
+{Magog Marathon} {2015} raw results saved successfully
+Building option and context for {Marine Corps Marathon} {2015}
+table body 13 not table with results
+table body 13 not table with results
+{Marine Corps Marathon} {2015} raw results saved successfully
+Building option and context for {Moncton Legs for Literacy Marathon} {2015}
+Can't find xpath for selection list
+cant find xpath for view button
+Can't find xpath for selection list
+{Moncton Legs for Literacy Marathon} {2015} raw results saved successfully
+Building option and context for {Morgan Hill Marathon} {2015}
+{Morgan Hill Marathon} {2015} raw results saved successfully
+Building option and context for {Niagara Falls International Marathon} {2015}
+{Niagara Falls International Marathon} {2015} raw results saved successfully
+Building option and context for {Paso Robles Harvest Marathon} {2015}
+{Paso Robles Harvest Marathon} {2015} raw results saved successfully
+Building option and context for {Tri-Cities Marathon} {2015}
+{Tri-Cities Marathon} {2015} raw results saved successfully
+Building option and context for {Dog Lake Marathon} {2015}
+Error in index for race metadata
+{Dog Lake Marathon} {2015} raw results saved successfully
+Building option and context for {Marathon 2 Marathon} {2015}
+{Marathon 2 Marathon} {2015} raw results saved successfully
+Building option and context for {Napa Valley Wine Country Trail Marathon} {2015}
+{Napa Valley Wine Country Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Peak to Creek Marathon (formerly Ridge to Bridge Marathon)} {2015}
+{Peak to Creek Marathon (formerly Ridge to Bridge Marathon)} {2015} raw results saved successfully
+Building option and context for {Petrified Forest Marathon} {2015}
+Can't find xpath for selection list
+cant find xpath for view button
+{Petrified Forest Marathon} {2015} raw results saved successfully
+Building option and context for {Snowdonia Marathon} {2015}
+{Snowdonia Marathon} {2015} raw results saved successfully
+Building option and context for {Tecumseh Trail Marathon} {2015}
+{Tecumseh Trail Marathon} {2015} raw results saved successfully
+Building option and context for {Triple Lakes Trail Race} {2015}
+Can't find xpath for selection list
+cant find xpath for view button
+{Triple Lakes Trail Race} {2015} raw results saved successfully
+Building option and context for {"Running for the bay!" Marathon} {2015}
+Error in index for race metadata
+Error in index for race metadata
+Error in index for race metadata
+Traceback (most recent call last):
+  File ".\_data_gather_main.py", line 74, in <module>
+    select_option_list = select_option_list[:select_option_list.index("Men's Results")]
+ValueError: "Men's Results" is not in list
+PS C:\Users\SeanW\Desktop\Projects\Marathon_Scrape> [20240:14144:0323/185327.404:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
